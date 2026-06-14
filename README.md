@@ -1,5 +1,6 @@
 # [Space](https://spce.me)
-The next generation of cloud compute
+Persistent and secure cloud VMs, for general use
+Create apps with sandboxes, host your apps, setup dev environments, or let agents use sandboxes, all through Space VMs
 
 
 This is the public repo for space, including releases of the cli
